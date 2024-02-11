@@ -32,7 +32,6 @@
 <img align="right" alt="developer" width="250" src="https://media.licdn.com/dms/image/D4D12AQFVm5j1hg9Z_A/article-cover_image-shrink_720_1280/0/1691759814185?e=2147483647&v=beta&t=3M2jMjaNQVg2YaAvo2JFISF1ckY6yJ8WB7xtI6zPXdo" />
 
 
-<img align="right" alt="Run" width="200" src="https://media.giphy.com/media/hFVrwYJaIz0uk/giphy.gif" />
 <img align="right" alt="KickBoxing" width="250" src="https://kocaeli.gsb.gov.tr/Public/Edit/images/IM/55/Sportif%20De%C4%9Ferlendirme%20ve%20Takip/Okul%20Sporlar%C4%B1/giphy.gif" />
 <img align="right" alt="Boxing" width="250" src="https://media1.giphy.com/media/pLKIYL179BWZ8HHIoh/giphy.gif?cid=6c09b952ireoy9jelo2qq3tn45wqfke5ptiqtup76daes5z7&ep=v1_stickers_related&rid=giphy.gif&ct=s" />
 
