@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soroush Ghatran</h1>
 <h3 align="center">A passionate Full-Stack developer in IRAN</h3>
 
-<img align="right" alt="run" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Flearnjavascript%2Fcomments%2F9uu05g%2Fputting_a_gif_into_my_js_game%2F&psig=AOvVaw1IjjzOqT_pIMAmr_N4TayC&ust=1707725725767000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjogaLsooQDFQAAAAAdAAAAABAR" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soroush-g&label=Profile%20views&color=0e75b6&style=flat" alt="soroush-g" /> </p>
 
@@ -24,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soroush-g&show_icons=true&locale=en" alt="soroush-g" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soroush-g&" alt="soroush-g" /></p>
+
+
+
+<img align="right" alt="run" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Flearnjavascript%2Fcomments%2F9uu05g%2Fputting_a_gif_into_my_js_game%2F&psig=AOvVaw1IjjzOqT_pIMAmr_N4TayC&ust=1707725725767000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjogaLsooQDFQAAAAAdAAAAABAR" />
