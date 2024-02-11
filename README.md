@@ -30,6 +30,7 @@
 <img align="right" alt="developer" width="250" src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" />
 <img align="right" alt="developer" width="250" src="https://www.newus.in/static/media/Core-python-at-newus-Dharmsala.0fc3b7c72cdea81baba4.gif" />
 <img align="right" alt="developer" width="250" src="https://openaccessbelgium.files.wordpress.com/2021/02/science-nav.png" />
+<img align="right" alt="developer" width="250" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/60c0d9460c02947666c0d70c_Data%20report.gif" />
 
 
 <img align="right" alt="Run" width="200" src="https://media.giphy.com/media/hFVrwYJaIz0uk/giphy.gif" />
