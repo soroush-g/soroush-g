@@ -27,4 +27,4 @@
 
 
 
-<img align="right" alt="run" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Flearnjavascript%2Fcomments%2F9uu05g%2Fputting_a_gif_into_my_js_game%2F&psig=AOvVaw1IjjzOqT_pIMAmr_N4TayC&ust=1707725725767000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjogaLsooQDFQAAAAAdAAAAABAR" />
+<img align="right" alt="think AI" width="800" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.snexplores.org%2Farticle%2Fchatgpt-homework-school-help-learning-ai-bot-mistakes&psig=AOvVaw1IjjzOqT_pIMAmr_N4TayC&ust=1707725725767000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjogaLsooQDFQAAAAAdAAAAABAh" />
