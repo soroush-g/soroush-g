@@ -27,9 +27,9 @@
 
 
 
-<img align="right" alt="developer" width="200" src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" />
-<img align="right" alt="ThinkAI" width="200" src="https://www.newus.in/static/media/Core-python-at-newus-Dharmsala.0fc3b7c72cdea81baba4.gif" />
-<img align="right" alt="Run" width="200" src="https://media.giphy.com/media/hFVrwYJaIz0uk/giphy.gif" />
+<img align="right" alt="developer" width="250" src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" />
+<img align="right" alt="ThinkAI" width="250" src="https://www.newus.in/static/media/Core-python-at-newus-Dharmsala.0fc3b7c72cdea81baba4.gif" />
+<img align="right" alt="Run" width="250" src="https://media.giphy.com/media/hFVrwYJaIz0uk/giphy.gif" />
 
 
 
