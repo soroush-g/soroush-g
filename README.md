@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soroush Ghatran</h1>
 <h3 align="center">A passionate Full-Stack developer in IRAN</h3>
 
-
+<img align="right" alt="loading skills" width="600" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soroush-g&label=Profile%20views&color=0e75b6&style=flat" alt="soroush-g" /> </p>
 
@@ -27,4 +27,10 @@
 
 
 
-<img align="right" alt="think AI" width="800" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.snexplores.org%2Farticle%2Fchatgpt-homework-school-help-learning-ai-bot-mistakes&psig=AOvVaw1IjjzOqT_pIMAmr_N4TayC&ust=1707725725767000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjogaLsooQDFQAAAAAdAAAAABAh](https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif)https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif](https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif)https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif](https://i.dawn.com/primary/2023/03/03003737dd48706.gif)https://i.dawn.com/primary/2023/03/03003737dd48706.gif" />
+<img align="right" alt="developer" width="300" src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" />
+<img align="right" alt="ThinkAI" width="300" src="https://www.newus.in/static/media/Core-python-at-newus-Dharmsala.0fc3b7c72cdea81baba4.gif" />
+<img align="right" alt="Run" width="300" src="https://media.giphy.com/media/hFVrwYJaIz0uk/giphy.gif" />
+
+
+
+
