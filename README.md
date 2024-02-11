@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soroush Ghatran</h1>
 <h3 align="center">A passionate Full-Stack developer in IRAN</h3>
 
+<img align="right" alt="girl" width=300 src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soroush-g&label=Profile%20views&color=0e75b6&style=flat" alt="soroush-g" /> </p>
 
 - 🔭 I’m currently working on **Bank Wallet**
