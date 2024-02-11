@@ -27,12 +27,12 @@
 
 
 
-<img align="right" alt="developer" width="150" src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" />
-<img align="right" alt="developer" width="150" src="https://www.newus.in/static/media/Core-python-at-newus-Dharmsala.0fc3b7c72cdea81baba4.gif" />
-<img align="right" alt="developer" width="150" src="https://media.licdn.com/dms/image/D4D12AQFVm5j1hg9Z_A/article-cover_image-shrink_720_1280/0/1691759814185?e=2147483647&v=beta&t=3M2jMjaNQVg2YaAvo2JFISF1ckY6yJ8WB7xtI6zPXdo" />
-<img align="right" alt="KickBoxing" width="150" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif" />
-<img align="right" alt="KickBoxing" width="200" src="https://kocaeli.gsb.gov.tr/Public/Edit/images/IM/55/Sportif%20De%C4%9Ferlendirme%20ve%20Takip/Okul%20Sporlar%C4%B1/giphy.gif" />
-<img align="right" alt="Boxing" width="200" src="https://media1.giphy.com/media/pLKIYL179BWZ8HHIoh/giphy.gif?cid=6c09b952ireoy9jelo2qq3tn45wqfke5ptiqtup76daes5z7&ep=v1_stickers_related&rid=giphy.gif&ct=s" />
+<img align="right" alt="developer" width="100" src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" />
+<img align="right" alt="developer" width="100" src="https://www.newus.in/static/media/Core-python-at-newus-Dharmsala.0fc3b7c72cdea81baba4.gif" />
+<img align="right" alt="developer" width="100" src="https://media.licdn.com/dms/image/D4D12AQFVm5j1hg9Z_A/article-cover_image-shrink_720_1280/0/1691759814185?e=2147483647&v=beta&t=3M2jMjaNQVg2YaAvo2JFISF1ckY6yJ8WB7xtI6zPXdo" />
+<img align="right" alt="KickBoxing" width="100" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif" />
+<img align="right" alt="KickBoxing" width="150" src="https://kocaeli.gsb.gov.tr/Public/Edit/images/IM/55/Sportif%20De%C4%9Ferlendirme%20ve%20Takip/Okul%20Sporlar%C4%B1/giphy.gif" />
+<img align="right" alt="Boxing" width="150" src="https://media1.giphy.com/media/pLKIYL179BWZ8HHIoh/giphy.gif?cid=6c09b952ireoy9jelo2qq3tn45wqfke5ptiqtup76daes5z7&ep=v1_stickers_related&rid=giphy.gif&ct=s" />
 
 
 
